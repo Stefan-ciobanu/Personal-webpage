@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/my-personalsite/static/css/main.96bb57f3.chunk.css",
+    "main.js": "/my-personalsite/static/js/main.c8af4d23.chunk.js",
+    "main.js.map": "/my-personalsite/static/js/main.c8af4d23.chunk.js.map",
+    "runtime-main.js": "/my-personalsite/static/js/runtime-main.8e2c636b.js",
+    "runtime-main.js.map": "/my-personalsite/static/js/runtime-main.8e2c636b.js.map",
+    "static/css/2.150d169a.chunk.css": "/my-personalsite/static/css/2.150d169a.chunk.css",
+    "static/js/2.8b9a3eec.chunk.js": "/my-personalsite/static/js/2.8b9a3eec.chunk.js",
+    "static/js/2.8b9a3eec.chunk.js.map": "/my-personalsite/static/js/2.8b9a3eec.chunk.js.map",
+    "static/js/3.22810f98.chunk.js": "/my-personalsite/static/js/3.22810f98.chunk.js",
+    "static/js/3.22810f98.chunk.js.map": "/my-personalsite/static/js/3.22810f98.chunk.js.map",
+    "index.html": "/my-personalsite/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/my-personalsite/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.96bb57f3.chunk.css.map": "/my-personalsite/static/css/main.96bb57f3.chunk.css.map",
+    "static/js/2.8b9a3eec.chunk.js.LICENSE.txt": "/my-personalsite/static/js/2.8b9a3eec.chunk.js.LICENSE.txt",
+    "static/media/ProjectPage.css": "/my-personalsite/static/media/Apex_1_Horizontal_RGB.a00f52d7.svg",
+    "static/media/HomePage.css": "/my-personalsite/static/media/Image1.7e92688d.jpg",
+    "static/media/StefanCiobanuCV.50be03d6.pdf": "/my-personalsite/static/media/StefanCiobanuCV.50be03d6.pdf",
+    "static/media/briefcasesolid.03a61b54.svg": "/my-personalsite/static/media/briefcasesolid.03a61b54.svg",
+    "static/media/graduationcapsolid.af8ffce9.svg": "/my-personalsite/static/media/graduationcapsolid.af8ffce9.svg",
+    "static/media/homesolid.831db11d.svg": "/my-personalsite/static/media/homesolid.831db11d.svg",
+    "static/media/taskssolid.49f93031.svg": "/my-personalsite/static/media/taskssolid.49f93031.svg",
+    "static/media/usersolid.93b18c33.svg": "/my-personalsite/static/media/usersolid.93b18c33.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8e2c636b.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.8b9a3eec.chunk.js",
+    "static/css/main.96bb57f3.chunk.css",
+    "static/js/main.c8af4d23.chunk.js"
+  ]
+}
